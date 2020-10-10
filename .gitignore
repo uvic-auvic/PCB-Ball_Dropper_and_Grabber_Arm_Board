@@ -1,18 +1,39 @@
-### Altium ###
-# Previews Folders
-**/__Previews/
+# Various Altium files
+*.PrjPCBStructure
+*.SchDocPreview
+*.PcbDocPreview
+__Previews
+*.PrjPcbStructure
+*.Dat
+*.REP 
+*.TLT
+*.LOG
+*.log
+*.htm
+*.$$$
 
-# History Folders
-**/History/*
+#useless dirs
+Project\ Outputs
+Project\ Logs
+Project Outputs for*
 
-# Project Logs
-Project Logs*/
+#History
+History
 
-# Project Outputs
-Project Outputs*/
+#Status Report
+Status Report.Txt
 
-# Auto-conversion notices
-*.PcbDoc.htm
+#Exports, but not manual ones
+exports/*
+!exports/manual
 
-# Access lock file for dbLib sources
-**/*.ldb
+#Python stuff
+scripts/__pycache__/
+*.bak
+*.dwl
+*.dwl2
+
+#LTSpice
+*/Simulations/*.net
+*/Simulations/*.raw
+*/Simulations/*.plt
