@@ -92,6 +92,23 @@ GenerateClassCluster=0
 DocumentUniqueId=RKAZIGWK
 
 [Document4]
+DocumentPath=Motor Controller.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FPTAFITL
+
+[Document5]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -108,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HUFWPHOX
 
-[Document5]
+[Document6]
 DocumentPath=Grabber Arm And Ball Dropper Board.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document7]
 DocumentPath=Grabber Arm And Ball Dropper Board  .OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
