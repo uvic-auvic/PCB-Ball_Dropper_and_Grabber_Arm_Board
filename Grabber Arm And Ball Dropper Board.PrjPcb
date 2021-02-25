@@ -75,6 +75,23 @@ GenerateClassCluster=0
 DocumentUniqueId=YPXLNOBL
 
 [Document3]
+DocumentPath=ESC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZAIILQSJ
+
+[Document4]
 DocumentPath=Micro.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -91,8 +108,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RKAZIGWK
 
-[Document4]
-DocumentPath=Motor Controller1.SchDoc
+[Document5]
+DocumentPath=Motor Controller(old).SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -108,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FPTAFITL
 
-[Document5]
+[Document6]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HUFWPHOX
 
-[Document6]
+[Document7]
 DocumentPath=Grabber Arm And Ball Dropper Board.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document8]
 DocumentPath=Grabber Arm And Ball Dropper Board  .OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document9]
 DocumentPath=Master.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -295,7 +312,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Wondershare PDFelement
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
